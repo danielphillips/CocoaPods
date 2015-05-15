@@ -7,8 +7,8 @@ GIT
 
 GIT
   remote: https://github.com/CocoaPods/Core.git
-  revision: c32c47c5b090855d8529ed3360a9645765b2bddd
-  branch: master
+  revision: 9900a4b37b30727371c8460d39c4cc2fdefa2bc3
+  branch: mr-xcconfig-attributes
   specs:
     cocoapods-core (0.37.1)
       activesupport (>= 3.2.15)
